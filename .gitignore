@@ -6,11 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# VS folder comment
+.vs
+
 # Venv
 trader-venv/
-
-# VS attrs
-.vs
 
 # Experimental notebooks
 experimental/
