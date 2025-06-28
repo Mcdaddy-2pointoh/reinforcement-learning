@@ -10,7 +10,7 @@ __pycache__/
 .vs
 
 # Venv
-trader-venv/
+rl-venv/
 
 # Experimental notebooks
 experimental/
